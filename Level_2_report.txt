@@ -1,0 +1,13 @@
+Report for Level: Level_2
+Player Final Reputation: 369
+Customer Happiness Summary:
+Customer VIP Alice:
+  Current Happiness: 275
+  Max Happiness: 2000
+  Reputation Boost: 30 (Boosted 4 times)
+  Reputation Attack: 30 (Attacked 0 times)
+Customer Senior Lala:
+  Current Happiness: 150
+  Max Happiness: 1500
+  Reputation Boost: 20 (Boosted 2 times)
+  Reputation Attack: 10 (Attacked 0 times)

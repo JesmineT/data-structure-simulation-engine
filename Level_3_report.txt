@@ -1,0 +1,18 @@
+Report for Level: Level_3
+Player Final Reputation: 353
+Customer Happiness Summary:
+Customer Senior Steven:
+  Current Happiness: 50
+  Max Happiness: 1500
+  Reputation Boost: 20 (Boosted 1 times)
+  Reputation Attack: 10 (Attacked 1 times)
+Customer Princess Babygirl:
+  Current Happiness: 100
+  Max Happiness: 1000
+  Reputation Boost: 5 (Boosted 4 times)
+  Reputation Attack: 25 (Attacked 2 times)
+Customer VIP Sam:
+  Current Happiness: -75
+  Max Happiness: 2000
+  Reputation Boost: 30 (Boosted 1 times)
+  Reputation Attack: 30 (Attacked 4 times)

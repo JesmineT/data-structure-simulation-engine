@@ -1,0 +1,8 @@
+Report for Level: Level_1
+Player Final Reputation: 87
+Customer Happiness Summary:
+Customer Senior Steven:
+  Current Happiness: -100
+  Max Happiness: 1500
+  Reputation Boost: 20 (Boosted 1 times)
+  Reputation Attack: 10 (Attacked 3 times)
